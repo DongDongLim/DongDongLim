@@ -1,6 +1,6 @@
 ### 👋 Hi there 👋
 
-#### 🔭 I’m currently working on <pre><code><a href="https://www.facebook.com/OctopoStudios/" target="curCompany"><img src="https://img.shields.io/badge/curCompany-000000?style=for-the -배지&로고=#512BD4&로고색상=FFFFFF"/></a><pre><code>
+#### 🔭 I’m currently working on <a href="https://www.facebook.com/OctopoStudios/" target="curCompany"><img src="https://img.shields.io/badge/curCompany-000000?style=for-the -배지&로고=#512BD4&로고색상=FFFFFF"/></a>
 <!--
 **DongDongLim/DongDongLim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
